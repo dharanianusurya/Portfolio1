@@ -9,21 +9,21 @@ export default function Skills() {
       gradient: "from-blue-500 to-indigo-500",
     },
     {
-      title: "Backend Development",
+      title: "Frameworks",
       desc: "Designing RESTful APIs and robust server-side logic.",
-      tags: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
+      tags: ["Node.js", "Express", "Streamlit"],
       gradient: "from-indigo-500 to-purple-500",
     },
     {
       title: "Machine Learning",
       desc: "Deep learning models and computer vision pipelines.",
-      tags: ["Python", "PyTorch", "YOLO", "OpenCV"],
+      tags: ["Python", "Ultralytics", "TensorFlow", "OpenCV","Scikit-learn"],
       gradient: "from-purple-500 to-pink-500",
     },
     {
       title: "Systems & Databases",
       desc: "Optimizing data storage and structural architecture.",
-      tags: ["MySQL", "Redis", "Git", "Docker"],
+      tags: ["MySQL", "MongoDB"],
       gradient: "from-pink-500 to-rose-500",
     },
   ];
